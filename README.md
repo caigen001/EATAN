@@ -10,7 +10,8 @@ This is a simple demo using EATAN MATLAB code. More relevant codes are still bei
 
 # One More Thing...
 Due to the limited layout of TRS journals, a performance comparison between the EATAN method and the other six demodulation methods will soon be added.
-![11](https://github.com/caigen001/EATAN/assets/17806704/55255853-2adc-4e1f-9c20-e66d153ace48)
+![image](https://github.com/caigen001/EATAN/assets/17806704/fb64caf4-160a-4e7a-8b13-850ef398b32f)
+
 
 
 
